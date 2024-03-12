@@ -2,6 +2,7 @@
 
 - [User List](#User-List)
 - [Wazuh Setup](#Wazuh-Setup)
+- [Attack Notes Day 1](#Attack-Notes-Day-1)
 
 # User List:
 ##CEO
@@ -34,6 +35,55 @@
 - [key request](https://documentation.wazuh.com/current/user-manual/agents/key-request.html)
 - [ossec
   configuration path](https://documentation.wazuh.com/current/user-manual/capabilities/log-data-collection/monitoring-log-files.html)
+
+# Attack Notes Day 1
+
+There is a new computer containing work that the ceo needs by eod. high priority.
+
+new login from 192.168.1.161
+unknown user sent wall message at 2.39
+kicked user from that ip
+
+removed ssh keys from /etc/ssh/*key* and kicked user. 
+
+need investigation as to what resources were accessed.
+
+fired elena curtis
+
+
+CEO Report of active directory users:
+
+Audit of AD users
+-----------------
+Admins
+cody soto
+debrah helms
+domain admin
+enterprise admin
+kenneth james
+Rosa adams
+Ruth Jones
+Toby Atkinson
+
+Users
+-----
+administratory
+anthony martin
+cody soto
+dawn cason
+debrah helms
+emily saucedo
+enrique stokes
+janet pagan
+joseph florian
+joseph lee
+kenneth james
+kerberos
+kirtstin summerfield
+rosa adams
+ruth jones
+student
+toby atkinson
 
 
 ####NOTES####
