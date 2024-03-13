@@ -21,3 +21,4 @@ Manage mandatory access control:
 List services listening on the system (section 2.4):
     lsof -i -P -n | grep -v "(ESTABLISHED)"
 
+w, netstat, ss -plant, ps -aux, journalctl
