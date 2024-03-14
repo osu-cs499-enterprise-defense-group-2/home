@@ -2,6 +2,7 @@
 
 - [User List](#User-List)
 - [Wazuh Setup](#Wazuh-Setup)
+- [UFW Docs](https://manpages.ubuntu.com/manpages/jammy/en/man8/ufw.8.html#application%20integration)
 - [Attack Notes Day 1](#Attack-Notes-Day-1)
 
 # User List:
